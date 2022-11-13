@@ -1,0 +1,54 @@
+Catan;Juego de Mesa;1;25;-5;No aplica
+Ciudad Machi Koro;Juego de Mesa;1;20;-3;No aplica
+Carcassone;Juego de Mesa;1;25;-5;No aplica
+Fast Food Fear;Juego de Mesa;1;25;-5;No aplica
+Dice Zombies;Juego de Mesa;1;20;-5;No aplica
+Parade;Juego de Mesa;1;25;-7;No aplica
+Codigo Secreto;Juego de Mesa;1;30;-7;No aplica
+D50:Las Redes del Reich;Juego de Mesa;1;25;-7;No aplica
+El gran Libro de la Locura;Juego de Mesa;1;30;-7;No aplica
+La Isla Prohibida;Juego de Mesa;1;30;-5;No aplica
+King of New York;Juego de Mesa;1;30;-7;No aplica
+Fantasma Blitz;Juego de Mesa;1;25;-3;No aplica
+Dixit;Juego de Mesa;1;20;-3;No aplica
+Pandemic;Juego de Mesa;1;30;-7;No aplica
+Sushi go;Juego de Mesa;1;25;-3;No aplica
+Biology for Engineers;Libro;1;-5;25;Biologia
+New Biology for Engineers and Computer Scientist;Libro;1;-7;30;Biologia
+Applied Cell and Molecular Biology for Engineers;Libro;1;-5;20;Biologia
+Evolutionary Dynamics: Exploring the Equations of Life;Libro;1;-10;30;Biologia
+Essential Cell Biology;Libro;1;-7;20;Biologia
+Introduccion al Disenno de Ingenieria: Un Enfoque Basado en Proyectos;Libro;1;-8;25;Ingenieria
+Planificacion y Control de Proyectos;Libro;1;-5;25;Ingenieria
+Habilidades de Innovacion;Libro;1;-7;25;Ingenieria
+Disenno y Desarrollo de Productos;Libro;1;-5;15;Ingenieria
+Etica para Ingenieros;Libro;1;-5;25;Ingenieria
+Apuntes CC1000;Libro;1;-5;25;Computacion
+Introduction to Computers and Programming using C++ and MATLAB;Libro;1;-5;20;Computacion
+Introduccion al Algebra;Libro;1;-7;25;Algebra
+Algebra;Libro;1;-5;20;Algebra
+Calculo con geometria analitica;Libro;1;-5;20;Calculo
+Calculus;Libro;1;-5;25;Calculo
+Introduccion al Calculo;Libro;1;-7;25;Calculo
+Fisica para la ciencia y la tecnologia;Libro;1;-5;20;Fisica
+Fisica;Libro;1;-7;25;Fisica
+The Feynman lectures on physics;Libro;1;-7;30;Fisica
+Fisica para ciencias e ingenieria con fisica moderna;Libro;1;-8;25;Fisica
+Algebra Lineal;Libro;1;-7;20;Algebra
+Linear Algebra and Analytic Geometry;Libro;1;-5;20;Algebra
+Linear Algebra and Matrix Theory;Libro;1;-3;15;Algebra
+How to Design Programs: An Introduction to Programming and Computing;Libro;1;-5;25;Computacion
+Apuntes CC1002;Libro;1;-5;30;Computacion
+AETHER;Juego de Mesa;1;20;-3;No aplica
+Cacao;Juego de Mesa;1;20;-4;No aplica
+Checkpoint Charlie;Juego de Mesa;1;30;-5;No aplica
+Dragones & Gallinas;Juego de Mesa;1;30;-5;No aplica
+Holmes: Sherlock & Mycroft;Juego de Mesa;1;25;-5;No aplica
+Polilla Tramposa;Juego de Mesa;1;30;-3;No aplica
+Pylos;Juego de Mesa;1;25;-4;No aplica
+Calculo infinitesimal;Libro;1;-5;25;Calculo
+Calculo de una variable;Libro;1;-3;20;Calculo
+Calculo diferencial e integral;Libro;1;-7;30;Calculo
+Objects First with Java: A Practical Introduction Using;Libro;1;-5;25;Computacion
+Think like an Engineer;Libro;1;-5;25;Ingenieria
+Disenno de producto: Maquetas y Prototipos;Libro;1;-5;30;Ingenieria
